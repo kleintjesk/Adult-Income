@@ -4,9 +4,8 @@
 An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
 ## Objective
+Is marital status or age a good indicator of income? How will this impact marketing for a product?
 
-Identify the expected income level dependent on identified fators such as age. Use this information to know which product makes sense to market to an individual.
-  
 ## *Data source:* https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
 ## *Analysis*
