@@ -14,7 +14,11 @@ In this data set we are trying to predict whether a person will make over 50k or
 ![image](https://github.com/kleintjesk/Adult-Income/assets/134343290/2b2fb70f-21e7-43e9-956f-adc4d932462c)
 
 The first visualization shows which income is obtained based on marital status. We can see that a majority of the participants fall in the under / equal to 50k income range. We can also see a significant difference between the category “married civilian spouse" and all other marital categories as it has the highest number of participants making over 50k. 
+
+
 ![image](https://github.com/kleintjesk/Adult-Income/assets/134343290/b6f870cb-2989-4cdd-963e-f2f409dfc184)
+
+
 The two largest groups and most common marital status is “never married” or “married civilian spouse”. We can see that 20-year-olds most frequently fall in the never married  category, which is also the category with most participants falling in the under / equal to 50K category. 
 
 Next in highest number for never married are 30 year olds who  are split almost evenly between “never married” and “married civilian spouse”.
